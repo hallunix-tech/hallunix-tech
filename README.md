@@ -1,64 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Site Under Maintenance</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to right, #fdfbfb, #ebedee);
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      text-align: center;
-    }
+# Hallunix Tech Solutions — by Praveen Hallur
 
-    h1 {
-      font-size: 3rem;
-      margin-bottom: 10px;
-    }
+Welcome to the official GitHub of **Hallunix Tech Solutions**, an innovative IT services and consulting company founded by **Praveen Hallur**, passionate technology enthusiast and entrepreneur from Bengaluru, India.
 
-    p {
-      font-size: 1.2rem;
-      margin-bottom: 30px;
-    }
+## 🧠 About Me — Praveen Hallur
 
-    .instagram {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      text-decoration: none;
-      background-color: #E1306C;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 30px;
-      transition: background-color 0.3s ease;
-    }
+I am a technology practitioner specializing in:
 
-    .instagram:hover {
-      background-color: #c4275c;
-    }
+- Full Stack Development  
+- Cloud Infrastructure & Migration  
+- Cybersecurity & Data Protection  
+- AI & Machine Learning Solutions  
+- IT Consulting & Managed Services  
 
-    .instagram img {
-      width: 24px;
-      height: 24px;
-    }
-  </style>
-</head>
-<body>
-  <h1>🚧 Site Under Maintenance</h1>
-  <p>We’re making some improvements. We'll be back after <strong>June 30, 2025</strong>.</p>
+🌍 Founder of Hallunix Tech Solutions — Empowering startups and enterprises with cutting-edge technology solutions.
 
-  <a href="https://instagram.com/hacker_hub8" class="instagram" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram logo">
-    Join our community on Instagram
-  </a>
-</body>
-</html>
+## 🔧 About Hallunix Tech Solutions
+
+Hallunix Tech Solutions focuses on:
+
+- Custom software development tailored to business needs  
+- Scalable web and mobile applications  
+- Secure and efficient cloud infrastructure services  
+- Cybersecurity strategies to protect digital assets  
+- IT consulting for digital transformation  
+
+## 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![Praveen Hallur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenhallur&show_icons=true&theme=dark)
+
+## 🤝 Collaborate With Us
+
+We welcome:
+
+- Startups and enterprises seeking innovative tech solutions  
+- Developers interested in contributing to open-source projects  
+- Students and interns looking for mentorship and project guidance  
+- Businesses aiming to improve their IT infrastructure and security  
+
+## 📩 Contact Us
+
+- Email: info@hallunix.tech  
+- Website: [www.hallunix.tech](https://hallunix.tech)  
+
+---
+
+**License**  
+This repository and all open-source projects here are distributed under the MIT License.
+
+---
+
+Let's create future-ready technology solutions together — one project, one line of code, one breakthrough at a time.
