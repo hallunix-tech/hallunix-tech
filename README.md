@@ -25,10 +25,11 @@ I am a technology practitioner specializing in:
 - IT consulting for digital transformation
 
 ### 🌐 Social Presence:
-- Website: [www.hallunix.tech](https://hallunix.tech)  
-- LinkedIn: [Praveen Hallur](https://www.linkedin.com/in/praveen-hallur)  
-- Twitter: [@HallunixTech](https://twitter.com/HallunixTech) _(Add if applicable)_  
-- GitHub: [Hallunix Tech Solutions](https://github.com/praveenhallur)  
+Website: [www.hallunix.tech](https://hallunix.tech)  
+LinkedIn: [Hallunix Tech Solutions](https://www.linkedin.com/company/miniprojectbytes/?viewAsMember=true)  
+GitHub: [Hallunix Tech Solutions](https://github.com/hallunix-tech)  
+Instagram: [@hallunix.tech](https://www.instagram.com/hallunix.tech/)  
+Telegram:  [Hallunix Tech Solutions](https://t.me/Hallunix)  
 
 ---
 
@@ -41,7 +42,7 @@ We welcome:
 - Businesses aiming to improve their IT infrastructure and security  
 
 📩 For collaborations, connect with us:  
-**📧** info@hallunix.tech  
+**📧** hallunix.tech@gmail.com  
 **🌐** [www.hallunix.tech](https://hallunix.tech)  
 
 ---
