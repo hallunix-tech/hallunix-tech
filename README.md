@@ -42,7 +42,7 @@ We welcome:
 - Businesses aiming to improve their IT infrastructure and security  
 
 📩 For collaborations, connect with us:  
-**📧** hallunix.tech@gmail.com  
+**📧** support@hallunix.tech 
 **🌐** [www.hallunix.tech](https://hallunix.tech)  
 
 ---
