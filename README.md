@@ -1,4 +1,4 @@
-# 👨‍💻 Hallunix Tech Solutions — by Praveen Hallur
+# 👨‍💻 Hallunix Tech Solutions — by Praveen Hallur.
 
 Welcome to the official GitHub of **Hallunix Tech Solutions**, an innovative IT services and consulting company founded by **Praveen Hallur**, passionate technology enthusiast and entrepreneur from Bengaluru, India.
 
